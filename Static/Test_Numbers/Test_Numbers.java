@@ -1,5 +1,4 @@
 package Static.Test_Numbers;
-import java.util.Arrays;
 
 import Static.Numbers.Number;
 public class Test_Numbers {
